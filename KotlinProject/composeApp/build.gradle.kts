@@ -48,6 +48,9 @@ kotlin {
             implementation(libs.kotlin.test)
         }
     }
+    sourceSets.commonTest.dependencies {
+        implementation(kotlin("test"))
+    }
 }
 
 android {
