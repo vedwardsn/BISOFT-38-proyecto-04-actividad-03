@@ -1,0 +1,5 @@
+¿Qué aprendí?
+Aprendí que para hacer pruebas unitarias en Android Studio con Gradle, primero se debe crear una clase (por ejemplo, Calculadora.kt) en /main, y luego un archivo de prueba con el mismo nombre seguido de Test (por ejemplo, CalculadoraTest.kt) en /test. Las pruebas se ejecutan y se pueden ver los resultados en la consola o desde Android Studio.
+
+¿Qué valor tienen las pruebas en el ámbito profesional?
+Las pruebas unitarias ayudan a detectar errores desde etapas tempranas, hacen que el código sea más confiable y facilitan el mantenimiento. En el entorno profesional, son clave para asegurar calidad, evitar regresiones y trabajar de forma más segura en equipo.
